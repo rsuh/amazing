@@ -1,6 +1,4 @@
-[![npm (scoped)]
-(https://img.shields.io/npm/v/@rsuh9/amazing.svg)]
-(https://github.com/rsuh/amazing)
+![npm](https://img.shields.io/npm/v/@rsuh9/amazing.svg)
 
 # @rsuh9/amazing
 
