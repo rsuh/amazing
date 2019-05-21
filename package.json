@@ -1,0 +1,14 @@
+{
+	"name": "@rsuh9/amazing",
+	"version": "1.0.0",
+	"description": "Tells us how awesome Matt is",
+  "license": "MIT",
+  "repository": "rsuh/amazing",
+  "main": "index.js",
+  "keywords": [
+    "amazing",
+    "npm",
+    "package",
+    "matt",
+  ]
+}
